@@ -47,16 +47,18 @@
 	      </li>
 
 	      <li class="nav-item">
-	        <a class="nav-link" style="font-size:3vh;" href="https://www.google.com"><span class="menuItemCustom">Menu 2 &nbsp</span></a>
+	        <a class="nav-link" style="font-size:3vh;" href="https://www.google.com"><span class="menuItemCustom">Hello World &nbsp</span></a>
 	      </li>
 
 	      <li class="nav-item">
-	        <a class="nav-link" style="font-size:3vh;" href="https://www.google.com"><span class="menuItemCustom">Menu 3 &nbsp</span></a>
+	        <a class="nav-link" style="font-size:3vh;" href="https://www.google.com"><span class="menuItemCustom">How it Works &nbsp</span></a>
 	      </li>
 
+		<!--
 	      <li class="nav-item">
 	        <a class="nav-link" style="font-size:3vh;" href="https://www.google.com"><span class="menuItemCustom">Menu 4 &nbsp</span></a>
 	      </li>
+		  -->
 
 	    </ul>
 

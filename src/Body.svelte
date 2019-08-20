@@ -21,7 +21,7 @@ width:100%;
 <h2>A convenient and intuitive way to start learning about and developing with Svelte!</h2>
 <br>
 <br>
-<h3>Check out the <a href="https://www.google.com" style="text-decoration:underline;">Svelte BoilerPlate Github Resource</a> to download file examples.
+<h3>Check out the <a href="https://github.com/sbrookes4/SvelteBoilerPlate" style="text-decoration:underline;">Svelte BoilerPlate Github Resource</a> to download file examples.
 </h3>
 <br>
 <br>
