@@ -15,7 +15,7 @@ width:100%;
 
 <div>
 
-<h1>Svelte Starter Boiler Plate</h1>
+<h1>Svelte Starter Guide & Boiler Plate</h1>
 <br>
 <br>
 <h2>A convenient and intuitive way to start learning about and developing with Svelte!</h2>

@@ -1,4 +1,4 @@
-body {
+body,html {
 	color: #333;
 	margin: 0;
 	box-sizing: border-box;
@@ -53,4 +53,14 @@ button:active {
 
 button:focus {
 	border-color: #666;
+}
+
+.textA{
+font-size:3vh;
+padding-right:5vw;
+text-align: left;
+}
+
+.img1{
+width:90%;
 }
